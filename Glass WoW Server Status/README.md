@@ -17,9 +17,11 @@ Once you have glass launcher you run the app then you can scroll through the ser
 
 ----Pics----
 
-![alt tag](http://i.imgur.com/GqZSQMh)
 
-![alt tag](http://i.imgur.com/WgLsFJs)
+![realms for WoW Glass](http://i.imgur.com/GqZSQMh.png)
+
+![realm info for WoW Glass](http://i.imgur.com/WgLsFJs.png)
+
 
 
 ----------------------------------
