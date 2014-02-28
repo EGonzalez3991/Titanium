@@ -7,6 +7,7 @@ one of the first of it's kind.
 
 
 ----How to Use----
+
 In order to access the application once it is installed on your glass through titanium you might need an application launcher for glass. I prefer glass launcher, found here: https://github.com/justindriggers/Glass-Launcher
 
 Once you have glass launcher you run the app then you can scroll through the servers on glass and click on them to access more information on that server.
@@ -15,10 +16,11 @@ Once you have glass launcher you run the app then you can scroll through the ser
 
 
 ----Pics----
-[Imgur](http://i.imgur.com/GqZSQMh)
 
+![alt tag](http://i.imgur.com/GqZSQMh)
 
-[Imgur](http://i.imgur.com/WgLsFJs)
+![alt tag](http://i.imgur.com/WgLsFJs)
+
 
 ----------------------------------
 Stuff our legal folk make us say:
